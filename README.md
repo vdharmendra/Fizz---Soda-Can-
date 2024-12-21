@@ -20,7 +20,7 @@ Fizz is a refreshing, fruity soda juice packed in a convenient can, designed to 
 
 <br />
 <a href="https://www.behance.net/gallery/215247603/Fizz-Soda-Can-Juice-Product-Card-Hover-Animation" target="_blank">
-<img style="width:350px;" src="./productCardHoverAnimation.png" alt="" /></a>
+<img style="width:350px;" src="./productCardHoverAnimation.gif" alt="" /></a>
 <br />
 <a href="https://www.behance.net/gallery/215247603/Fizz-Soda-Can-Juice-Product-Card-Hover-Animation" target="_blank">
 <img style="width:350px;" src="./ProductCardAnimation.gif" alt="" /></a>
